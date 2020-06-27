@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "437972868936",
+    "firebase_url": "https://sportcalc-682ca.firebaseio.com",
+    "project_id": "sportcalc-682ca",
+    "storage_bucket": "sportcalc-682ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437972868936:android:e85ad25995537b59491d7d",
+        "android_client_info": {
+          "package_name": "com.example.sportCalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437972868936-ovrhl9vlhuu32e6ktpiju5iq06lonubt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDekY5l91Km6vqZ0cwKeq-X3kiZR5OAcGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437972868936-ovrhl9vlhuu32e6ktpiju5iq06lonubt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "437972868936-4j50csf6se8fbhvvc441nmkp578t80gb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sportCalc"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3768518226199114~8287859103"
+    }
+  ],
+  "configuration_version": "1"
+}
